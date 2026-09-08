@@ -140,7 +140,6 @@ credit-fraud-detection-submission/
 ├── 🤖 fraud_detection_model.pkl
 ├── 📝 summary_report.md
 ├── 📋 requirements.txt
-└── 🎥 VIDEO_SCRIPT.md
 ```
 
 ### Notebook
@@ -163,8 +162,6 @@ A short summary of the approach, results, recommendation and business impact.
 
 The Python packages needed to run the project.
 
-### Video guide
-`VIDEO_SCRIPT.md`
 
 A natural speaking guide for the required practical-exam walkthrough.
 
