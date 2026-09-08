@@ -217,16 +217,6 @@ These values are scenario-based business estimates from the practical exam setup
 
 ---
 
-## 🎥 Practical exam video
-
-The practical requires a **5–10 minute recording** showing the work on screen along with the student's face.
-
-After recording, add the final link here:
-
-**Video URL:** `PASTE_YOUR_VIDEO_LINK_HERE`
-
----
-
 ## 🌐 GitHub repository
 
 Required repository name:
